@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.tabs {
+  @apply cursor-pointer text-white p-2 rounded-md;
+}
